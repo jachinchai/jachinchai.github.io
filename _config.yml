@@ -1,2 +1,3 @@
 name: Jian Chai
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
